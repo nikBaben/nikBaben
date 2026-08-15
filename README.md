@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/Baben?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Baben)
