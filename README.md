@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/Baben?theme=dark&hide=rank&ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Baben?theme=dark&hide=rank&ext=heatmap,activity)
